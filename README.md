@@ -1,1 +1,2 @@
 # Banking
+This is a banking program featuring a checking account, savings account, a SCHWAB account, and transfers between said accounts. Universal options include checking balance, adding a deposit, and withdrawing an amount. Checking account has an additional menu for transactions, allowing user to do transactions such as paying for school fees. Savings account has an additional feature for applying interest. SCHWAB account has an additional menu for buying shares of stocks such as Tesla (all stocks are as of April 26th, 2024). 
